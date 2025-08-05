@@ -36,7 +36,7 @@ const z = 3;
   console.log(y);
 } 
 
-// Function(We can put a "Function scope" inside of a "Function scope"). Unlike the "Block scope", for a "Function" scope to appear in the console, it mjust be called
+// Function(We can put a "Function" inside of a "Function scope"). Unlike the "Block scope", for a "Function" scope to appear in the console, it must be called
    // Values can only be passed down as inheritance. They canot be passed up. 
 function myFunc() {
   const z = 5;
